@@ -8,7 +8,7 @@ const  Nav= ()=>{
       
             <nav>
                <Link to = "/">
-               <img src ="./public/home.png" alt= "homelogo"/>
+               <img src ="../home.png" alt= "homelogo"/>
                </Link>
             </nav>
 
