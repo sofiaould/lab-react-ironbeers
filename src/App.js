@@ -15,6 +15,7 @@ function App() {
         <Route exact path="/beers" component={Beers} />
         <Route exact path="/randomBeers" component={RandomBeers} />
         <Route exact path="/newbeers" component={NewBeers} />
+        {/* < Route exact path= "/Nav.js" component ={Nav}/> */}
       </Switch>
     </div>
   );
